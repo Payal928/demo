@@ -1,7 +1,7 @@
 # whatsapp-chat-analysis
 A streamlit app to analyze your whatsapp chats
 
-Demo Link: https://wca-campusx.herokuapp.com/
+
 whatsapp-chat-analysis
 A Streamlit app to explore and understand your WhatsApp chats. Get message counts, most active participants, word usage trends, emoji statistics, and activity timelines — all in interactive visualizations that make your chat history easy to analyze.
 
