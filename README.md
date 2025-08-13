@@ -12,3 +12,24 @@ Track daily, monthly, and yearly activity
 Discover peak chat hours
 Analyze most used words and emojis
 Visualize activity trends with charts and graphs
+
+How to Use
+Export your WhatsApp chat:
+Open your WhatsApp chat (group or personal).
+Tap ⋮ → More → Export Chat → Choose Without Media.
+Save the exported .txt file.
+Open the Web App:
+Visit the deployed link (e.g., your Heroku URL).
+Upload your chat file:
+Click on the file uploader and select your exported .txt file.
+
+View Analysis:
+Choose a specific participant or Overall view.
+Explore the interactive charts and statistics.
+
+Tech Stack
+Python
+Streamlit (Web app framework)
+Pandas, Matplotlib, Seaborn (Data analysis & visualization)
+
+
